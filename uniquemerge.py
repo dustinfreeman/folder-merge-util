@@ -54,8 +54,9 @@ if __name__ == "__main__":
     
     traverse_merge_path(merge_path, index)
 
-
-    
+    #Next steps:
+    # - remove all empty directories
+    # - manually merge the remainder in
 
 
 
